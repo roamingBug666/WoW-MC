@@ -1,8 +1,33 @@
 # Worlds of Wonder MC
 (might have to change this dramatic name later)
 
-**Decent readme coming soon**
+**Decent desc coming soon**
 
+## Features:
+ + Generally (survival)
+   + Crafting tables
+   + Furnaces
+   + Chests
+   + Torches & lanterns
+   + Buckets
+   + XP bar
+   + Health bar
+   + Oxygen bar
+   + Hunger bar
+ + Overworld (survival)
+   + Biomes (plains, snowy plains, jungle, bamboo forest, ocean)
+   + Trees (oak, birch, jungle)
+   + Giant jungle trees
+   + Bamboo trees
+   + Lakes & oceans
+   + Ores (clay, coal, iron, copper, redstone, gold, lapis, diamond)
+ + Nether (creative as portals don't work yet)
+   + Biomes (regular, warped forest, crimson forest)
+   + Lava oceans
+   + Lava rivers (sort of)
+   + Ores (nether gold, quartz, ancient debris)
+ + Creative
+   + Tons of cool stuff
 ## To-Do List
  - [ ] Make adjacent glass blocks/panes merge inner borders
  - [ ] Make block damage only activate when on direct collision, not on the blocks around
@@ -52,6 +77,7 @@
  - [ ] Underground lava/water lakes
  - [ ] Raveens
  - [ ] Rivers
+ - [ ] Make pockets of powdered snow on the snowy plains biome
  - [ ] Implement biomes:
    * [ ] Decent mountains
    * [ ] Ocean coral reef biome (with actual coral structures)
