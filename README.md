@@ -24,6 +24,7 @@
  - [ ] Make some blocks (bedrock, obsidian, nokia, etc.) immune to TNT
  - [ ] Make mobs (cows, pigs) take block damage like the player (lava, magma, cacti, wither roses, etc.)
  - [ ] Make mobs NOT LOOK LIKE WOOL PLEASE
+ - [ ] Make mobs spawn naturally
  - [ ] Pare mobs's jump heights down to 1,25 (jump over blocks with more ease but not over fences)
  - [ ] Implement at least rudimentary mob pathfinding
  - [ ] When a mob is dead, tell it to stop moving around
@@ -101,7 +102,20 @@
  - Did you know that 7 sticks can smelt 3.5 items, but as ladders they can smelt 4.5?
  - Amazingly, if you try igniting a 3 by 3 cube of TNT, it will turn into diamonds instead of exploding - try this in your house sometime.
  - Make a shovel with two copper ingots and an amethyst shard and you will get a spyglass! It even works! (Only 1% know this craft)
- - Golden swords are actually really OP... Not kidding. But it's not like you can use them
+ - Golden swords are actually really OP... Not kidding. But it's not like you can use them anyway.
+
+## FAQ
+ - Q: Yo dude the trees have no trunks
+   - A: Um well you can always chop down dead bushes i guess
+ - Q: Why is it so cringey when the font looks like that?
+   - A: I will fix that. really
+ - Q: How do I change my controls cause I'm going to set everything to the same key
+   - A: PLEASE NO
+ - Q: How do I light TNT
+   - A: With other exploding TNT
+ - Q: Is there a Herobrine
+   - A: Of course not
+   - A: There _is_ a Slenderman jumpscare though
 
 ## Credits
 This project was originally from Thingmaker's Minekhan, also inspired by the following:
