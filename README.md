@@ -5,13 +5,9 @@
 
 ## To-Do List
  - [ ] Make adjacent glass blocks/panes merge inner borders
- - [ ] Make lapis ore drop multiple lapis (random between 4 and 8)
- - [x] For now it drops itself and can be crafted for 6 lapis
  - [ ] Make block damage only activate when on direct collision, not on the blocks around
  - [ ] Make magma only hurt when not crouching, and remove drowning
- - [x] Enable spectator shortcut "L" in survival when cheats are enabled
- - [ ] Make 3rd person not look like a grass and
- - [ ] STOP THE BOBBING cuz it looks terrible
+ - [ ] Enable spectator shortcut "L" in survival when cheats are enabled
  - [x] Change default "release pointer for skreenshot" key to a more accessible key (k)
  - [x] Add goldPickaxe to breakTypes
  - [x] Migrate images, fonts, panoramas to local file
@@ -26,9 +22,11 @@
    * [ ] Add bonus chest option
    * [ ] Make it work
  - [ ] Make some blocks (bedrock, obsidian, nokia, etc.) immune to TNT
- - [ ] Make mobs take block damage like the player (lava, magma, cacti, wither roses, etc.)
+ - [ ] Make mobs (cows, pigs) take block damage like the player (lava, magma, cacti, wither roses, etc.)
+ - [ ] Make mobs NOT LOOK LIKE WOOL PLEASE
  - [ ] Pare mobs's jump heights down to 1,25 (jump over blocks with more ease but not over fences)
  - [ ] Implement at least rudimentary mob pathfinding
+ - [ ] When a mob is dead, tell it to stop moving around
  - [ ] Up fences's hitbox heights to 1,5
  - [ ] Limit what forms can different blocks take (fences, slabs, stairs) to shorten the enter cycle and to actually not have pickaxe stairs
  - [ ] When (`SHIFT`) is pressed while on a ladder, make player remain stationary
@@ -41,8 +39,9 @@
  - [ ] Make leaves despawn when not close to wood
  - [ ] Make some items/blocks not appear on the creative inventory (like SW logs)
 ### **Crafting**
- - [ ] The rest of the workbench crafts (smithing table, anvil, )
+ - [ ] The rest of the workbench crafts (smithing table, anvil, loom)
  - [x] Fence gates
+ - [x] Blast furnace
  - [ ] TNT
 
 ### **Overworld**
@@ -64,7 +63,7 @@
 ### **Nether**
  - [ ] Make a return portal when traveling for the first time
  - [ ] Add nether mobs
-   * [ ] Blazes (um flying fireshooting cubes seem like something i dont want to add yet tho)
+   * [ ] Blazes
    * [ ] Endermen
    * [ ] Nether skeletons
    * [ ] Magma cubes (implement the splitting into smaller cubes)
@@ -76,6 +75,7 @@
  - [ ] Add it (flatter noise for the top and a steeper noise for the underside)
  - [ ] Add the pillars
  - [ ] Add the spawn platform
+ - [ ] Add a return portal
  - [ ] Add a ton of endermen
 
 ## Bugs:
@@ -95,11 +95,13 @@
  - [ ] Skin doesn't work, leaving the character a silvery gray all-over
  - [ ] Commands don't work - every time they freeze the game "too much recursion"
  - [ ] I made bedrock breakable and have no idea how to undo it
+ - [ ] For some reason the two furnace crafts (stone, cobblestone) don't work
 
 ## Stuff
  - Did you know that 7 sticks can smelt 3.5 items, but as ladders they can smelt 4.5?
  - Amazingly, if you try igniting a 3 by 3 cube of TNT, it will turn into diamonds instead of exploding - try this in your house sometime.
- - Make a shovel with copper ingots and an amethyst shard and you will get a spyglass! It even works! (Only 1% know this craft)
+ - Make a shovel with two copper ingots and an amethyst shard and you will get a spyglass! It even works! (Only 1% know this craft)
+ - Golden swords are actually really OP... Not kidding. But it's not like you can use them
 
 ## Credits
 This project was originally from Thingmaker's Minekhan, also inspired by the following:
