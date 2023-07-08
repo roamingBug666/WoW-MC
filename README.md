@@ -1,5 +1,4 @@
 # Worlds of Wonder MC
-(might have to change this dramatic name later)
 
 **Decent desc coming soon**
 
@@ -8,6 +7,17 @@
    + Crafting tables
    + Furnaces
    + Chests
+   + Tools:
+     + Wood, stone, iron, gold, diamond
+       + Shovel
+       + Hoe
+       + Sword
+       + Axe
+       + Pickaxe
+     + Iron
+       + Bucket (air, water, lava, powdered snow)
+       + Shears
+       + Flint and steel
    + Torches & lanterns
    + Buckets
    + XP bar
@@ -22,18 +32,24 @@
    + Lakes & oceans
    + Ores (clay, coal, iron, copper, redstone, gold, lapis, diamond)
  + Nether (creative as portals don't work yet)
-   + Biomes (regular, warped forest, crimson forest)
+   + Biomes (regular, warped forest, crimson forest, lava ocean)
+   + Warped trees/vines/roots/flowers
+   + Crimson trees/vines/roots/flowers
    + Lava oceans
    + Lava rivers (sort of)
    + Ores (nether gold, quartz, ancient debris)
  + Creative
-   + Tons of cool stuff
+   + Spawn eggs (cow, pig)
+   + Netherite tools
+   + All the colors of everything
+   + Cheats
+   + 
 ## To-Do List
  - [ ] Make adjacent glass blocks/panes merge inner borders
- - [ ] Make block damage only activate when on direct collision, not on the blocks around
+ - [ ] Make block damage only activate on direct collision, not on the blocks around
  - [ ] Make magma only hurt when not crouching, and remove drowning
  - [ ] Enable spectator shortcut "L" in survival when cheats are enabled
- - [x] Change default "release pointer for skreenshot" key to a more accessible key (k)
+ - [ ] Change default "release pointer for skreenshot" key to a more accessible key (k)
  - [x] Add goldPickaxe to breakTypes
  - [x] Migrate images, fonts, panoramas to local file
  - [x] Migrate music disc sound to local file
@@ -62,8 +78,9 @@
    * [ ] Bamboo (block, strippes block, mosaic, door, trapdoor)
    * [ ] Sea pickle
    * [ ] Froglights (yellow, green, purple)
- - [ ] Make leaves despawn when not close to wood
+ - [ ] Make leaves despawn when not close to wood (and drop stuff)
  - [ ] Make some items/blocks not appear on the creative inventory (like SW logs)
+
 ### **Crafting**
  - [ ] The rest of the workbench crafts (smithing table, anvil, loom)
  - [x] Fence gates
@@ -142,6 +159,8 @@
  - Q: Is there a Herobrine
    - A: Of course not
    - A: There _is_ a Slenderman jumpscare though
+ - Q: Why are my cactuses on steroids
+   - A: On the bright side you don't need to make farms!
 
 ## Credits
 This project was originally from Thingmaker's Minekhan, also inspired by the following:
