@@ -1,6 +1,5 @@
 # Worlds of Wonder MC
-
-**Decent desc coming soon**
+A Minecraft clone, originally by the coders listed in the credits section, that I sometimes play around with.
 
 ## Features:
  + Generally (survival)
@@ -41,7 +40,7 @@
  + Creative
    + Spawn eggs (cow, pig)
    + Netherite tools
-   + All the colors of everything
+   + All the colors of wool, carpet, concrete, glass, glass panes
    + Cheats
    + 
 ## To-Do List
@@ -66,10 +65,9 @@
  - [ ] Make mobs (cows, pigs) take block damage like the player (lava, magma, cacti, wither roses, etc.)
  - [ ] Make mobs NOT LOOK LIKE WOOL PLEASE
  - [ ] Make mobs spawn naturally
- - [ ] Pare mobs's jump heights down to 1,25 (jump over blocks with more ease but not over fences)
  - [ ] Implement at least rudimentary mob pathfinding
  - [ ] When a mob is dead, tell it to stop moving around
- - [ ] Up fences's hitbox heights to 1,5
+ - [ ] Up fences collision boxes to 1,5 blocks
  - [ ] Limit what forms can different blocks take (fences, slabs, stairs) to shorten the enter cycle and to actually not have pickaxe stairs
  - [ ] When (`SHIFT`) is pressed while on a ladder, make player remain stationary
  - [ ] Add blocks:
@@ -78,6 +76,10 @@
    * [ ] Bamboo (block, strippes block, mosaic, door, trapdoor)
    * [ ] Sea pickle
    * [ ] Froglights (yellow, green, purple)
+   * [ ] Concrete powder (affected by gravity)
+   * [ ] Mud
+   * [ ] Mangrove wood
+   * [ ] Mangrove roots, propagules
  - [ ] Make leaves despawn when not close to wood (and drop stuff)
  - [ ] Make some items/blocks not appear on the creative inventory (like SW logs)
 
@@ -112,7 +114,7 @@
    * [ ] Nether skeletons
    * [ ] Magma cubes (implement the splitting into smaller cubes)
    * [ ] Ghasts
-   * [ ] Maybe piglins, brutes, hoglins, zoglins, etc.
+   * [ ] Maybe piglins with a bartering system
 
 ### **End**
  - [ ] Make the Ender portal mechanics
@@ -130,7 +132,7 @@
  - [ ] At high speeds and/or lots of lag, falling items and blocks can phase through blocks
  - [ ] If TNT explodes near water (but not in it), it will explode the water (weirdest sight I've ever seen)
  - [ ] P.S.: Yes, I did learn the last two while exploding my world to death with hundreds of TNT
- - [ ] Sometimes cacti don't understand when to stop and grow incontrollably (hundreds of blocks)
+ - [ ] Sometimes cacti don't understand when to stop and grow incontrollably hundreds of blocks
  - [ ] P.S.: The worst part is you can't collapse the massive things for fear of the PC self-descructing
  - [ ] Blocks that are not full blocks (stairs, torches, flowers, ladders, etc.) that are right next to a truly full block, their adjacent face turns black (100% shadow or something). Inverse happens with 1 pix lower solid blocks (path blocks, soul soil..)
 
@@ -146,21 +148,6 @@
  - Amazingly, if you try igniting a 3 by 3 cube of TNT, it will turn into diamonds instead of exploding - try this in your house sometime.
  - Make a shovel with two copper ingots and an amethyst shard and you will get a spyglass! It even works! (Only 1% know this craft)
  - Golden swords are actually really OP... Not kidding. But it's not like you can use them anyway.
-
-## FAQ
- - Q: Yo dude the trees have no trunks
-   - A: Um well you can always chop down dead bushes i guess
- - Q: Why is it so cringey when the font looks like that?
-   - A: I will fix that. really
- - Q: How do I change my controls cause I'm going to set everything to the same key
-   - A: PLEASE NO
- - Q: How do I light TNT
-   - A: With other exploding TNT
- - Q: Is there a Herobrine
-   - A: Of course not
-   - A: There _is_ a Slenderman jumpscare though
- - Q: Why are my cactuses on steroids
-   - A: On the bright side you don't need to make farms!
 
 ## Credits
 This project was originally from Thingmaker's Minekhan, also inspired by the following:
